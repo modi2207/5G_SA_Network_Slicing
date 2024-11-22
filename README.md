@@ -113,21 +113,21 @@
    ```
 ## 5G Core Network Slicing Simulation Setup
 
-![Simulation Setup](images/simulation.jpg "Network Slicing Diagram")
+![Simulation Setup](Images/simulation.jpg "Network Slicing Diagram")
 
 
 
 Each VMs are as follows.
 
-![VM Allocation](images/table1.jpg "VM information")
+![VM Allocation](Images/table1.jpg "VM information")
 
 Subscriber Information (other information is default) is as follows.
 
-![VM Allocation](images/table2.jpg "Subscriber information")
+![VM Allocation](Images/table2.jpg "Subscriber information")
 
 Each DNs are as follows.
 
-![VM Allocation](images/table3.jpg "Data Network information")
+![VM Allocation](Images/table3.jpg "Data Network information")
 
 
 
