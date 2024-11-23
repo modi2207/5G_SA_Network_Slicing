@@ -139,10 +139,10 @@ https://github.com/s5uishida/open5gs_5gc_ueransim_sample_config
 
 https://nickvsnetworking.com/my-first-5g-core-open5gs-and-ueransim/
 
-contributors :
-Chirag Modi
-Alay Patel
-Aman Gupta 
+### contributors :
+Chirag Modi.
+Alay Patel.
+Aman Gupta.
 
 
 
